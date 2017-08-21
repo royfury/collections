@@ -10,4 +10,6 @@ package com.roy.lessons.collections.hashmap;
  */
 public class Concurrent {
 
+    // how to fail-fast
+
 }
