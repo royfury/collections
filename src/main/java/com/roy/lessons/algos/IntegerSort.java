@@ -1,4 +1,4 @@
-package com.roy.lessons.collections.algo;
+package com.roy.lessons.algos;
 
 import java.util.ArrayList;
 import java.util.Collections;
